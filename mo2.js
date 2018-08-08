@@ -13,7 +13,7 @@ client.on('ready', () => {
   console.log(' Mob2 Bot Is Online')
   console.log('---------------')
   client.user.setStatus("Online")
-    client.user.setActivity(" Type ehelp",{type: 'WATCHING'})
+    client.user.setActivity(" Type 2help",{type: 'WATCHING'})
 	
 });
 	
